@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "emberfall:block/decorblocks/packed_ice_pillar_top",
+    "side": "emberfall:block/decorblocks/packed_ice_pillar_side"
+  }
+}

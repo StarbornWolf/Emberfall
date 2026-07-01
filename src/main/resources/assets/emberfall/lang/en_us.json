@@ -1,0 +1,85 @@
+{
+  // Weapons
+  "item.emberfall.blahaj": "Blåhaj",
+  "item.emberfall.asura_sword": "Asura Sword",
+
+  // Armor
+
+  // Materials
+  "item.emberfall.hallowed_skull": "Hallowed Skull",
+  "item.emberfall.dark_geode": "Dark Geode",
+  "item.emberfall.magical_core": "Magical Core",
+  "item.emberfall.magical_substance": "Magical Substance",
+  "item.emberfall.shadow_alloy": "Shadow Alloy",
+  "item.emberfall.shadow_diamond": "Shadow Diamond",
+  "item.emberfall.shadow_meteorite": "Shadow Meteorite",
+  "item.emberfall.resonance_gem": "Resonance Gem",
+
+  // Functional Blocks
+  "block.emberfall.resonance_altar": "Resonance Altar",
+
+  //Decorative Blocks
+  "block.emberfall.decorblocks.arkose": "Arkose",
+  "block.emberfall.decorblocks.arkose_bricks": "Arkose Bricks",
+  "block.emberfall.decorblocks.arkose_pillar": "Arkose Pillar",
+  "block.emberfall.decorblocks.chiseled_arkose": "Chiseled Arkose",
+  "block.emberfall.decorblocks.cut_arkose": "Cut Arkose",
+
+  "block.emberfall.decorblocks.chert": "Chert",
+  "block.emberfall.decorblocks.chert_bricks": "Chert Bricks",
+  "block.emberfall.decorblocks.chert_pillar": "Chert Pillar",
+  "block.emberfall.decorblocks.chiseled_chert": "Chiseled Chert",
+  "block.emberfall.decorblocks.cut_chert": "Cut Chert",
+
+  "block.emberfall.decorblocks.greenschist": "Greenschist",
+  "block.emberfall.decorblocks.greenschist_bricks": "Greenschist Bricks",
+  "block.emberfall.decorblocks.greenschist_pillar": "Greenschist Pillar",
+  "block.emberfall.decorblocks.chiseled_greenschist": "Chiseled Greenschist",
+  "block.emberfall.decorblocks.cut_greenschist": "Cut Greenschist",
+
+  "block.emberfall.decorblocks.kyanite": "Kyanite",
+  "block.emberfall.decorblocks.kyanite_bricks": "Kyanite Bricks",
+  "block.emberfall.decorblocks.kyanite_pillar": "Kyanite Pillar",
+  "block.emberfall.decorblocks.chiseled_kyanite": "Chiseled Kyanite",
+  "block.emberfall.decorblocks.cut_kyanite": "Cut Kyanite",
+
+
+  "block.emberfall.decorblocks.limestone": "Limestone",
+  "block.emberfall.decorblocks.limestone_bricks": "Limestone Bricks",
+  "block.emberfall.decorblocks.limestone_pillar": "Limestone Pillar",
+  "block.emberfall.decorblocks.chiseled_limestone": "Chiseled Limestone",
+  "block.emberfall.decorblocks.cut_limestone": "Cut Limestone",
+
+  "block.emberfall.decorblocks.shale": "Shale",
+  "block.emberfall.decorblocks.shale_bricks": "Shale Bricks",
+  "block.emberfall.decorblocks.shale_pillar": "Shale Pillar",
+  "block.emberfall.decorblocks.chiseled_shale": "Chiseled Shale",
+  "block.emberfall.decorblocks.cut_shale": "Cut Shale",
+
+
+  "block.emberfall.decorblocks.seastone": "Seastone",
+  "block.emberfall.decorblocks.seastone_bricks": "Seastone Bricks",
+  "block.emberfall.decorblocks.seastone_pillar": "Seastone Pillar",
+  "block.emberfall.decorblocks.chiseled_seastone": "Chiseled Seastone",
+  "block.emberfall.decorblocks.cut_seastone": "Cut Seastone",
+
+  "block.emberfall.decorblocks.snow_bricks": "Snow Bricks",
+  "block.emberfall.decorblocks.packed_ice_bricks": "Packed Ice Bricks",
+  "block.emberfall.decorblocks.packed_ice_pillar": "Packed Ice Pillar",
+  "block.emberfall.decorblocks.chiseled_packed_ice": "Chiseled Packed Ice",
+  "block.emberfall.decorblocks.cut_packed_ice": "Cut Packed Ice",
+
+  "block.emberfall.decorblocks.polished_arkose": "Polished Arkose",
+  "block.emberfall.decorblocks.polished_chert": "Polished Chert",
+  "block.emberfall.decorblocks.polished_greenschist": "Polished Greenschist",
+  "block.emberfall.decorblocks.polished_limestone": "Polished Limestone",
+  "block.emberfall.decorblocks.polished_kyanite": "Polished Kyanite",
+  "block.emberfall.decorblocks.polished_seastone": "Polished Seastone",
+  "block.emberfall.decorblocks.polished_shale": "Polished Shale",
+  "block.emberfall.decorblocks.polished_packed_ice": "Polished Packed Ice",
+
+  //Misc
+  "creativetab.emberfallaw": "Emberfall Armory",
+  "creativetab.emberfallm": "Emberfall Materials",
+  "creativetab.emberfallb": "Emberfall Blocks"
+}

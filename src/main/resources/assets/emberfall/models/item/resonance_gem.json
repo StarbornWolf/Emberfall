@@ -1,0 +1,100 @@
+{
+  "parent": "minecraft:item/generated",
+  "gui_light": "front",
+  "textures": {
+    "layer0": "emberfall:item/resonance_gems/uncharged_red"
+  },
+  "overrides": [
+
+    {
+      "predicate": {
+        "emberfall:gem_type": 0,
+        "emberfall:charge_state": 0
+      },
+      "model": "emberfall:item/resonance_gems/res_red_u"
+    },
+    {
+      "predicate": {
+        "emberfall:gem_type": 0,
+        "emberfall:charge_state": 1
+      },
+      "model": "emberfall:item/resonance_gems/res_red_c"
+    },
+
+    {
+      "predicate": {
+        "emberfall:gem_type": 1,
+        "emberfall:charge_state": 0
+      },
+      "model": "emberfall:item/resonance_gems/res_blue_u"
+    },
+    {
+      "predicate": {
+        "emberfall:gem_type": 1,
+        "emberfall:charge_state": 1
+      },
+      "model": "emberfall:item/resonance_gems/res_blue_c"
+    },
+
+    {
+      "predicate": {
+        "emberfall:gem_type": 2,
+        "emberfall:charge_state": 0
+      },
+      "model": "emberfall:item/resonance_gems/res_green_u"
+    },
+    {
+      "predicate": {
+        "emberfall:gem_type": 2,
+        "emberfall:charge_state": 1
+      },
+      "model": "emberfall:item/resonance_gems/res_green_c"
+    },
+
+    {
+      "predicate": {
+        "emberfall:gem_type": 3,
+        "emberfall:charge_state": 0
+      },
+      "model": "emberfall:item/resonance_gems/res_yellow_u"
+    },
+    {
+      "predicate": {
+        "emberfall:gem_type": 3,
+        "emberfall:charge_state": 1
+      },
+      "model": "emberfall:item/resonance_gems/res_yellow_c"
+    },
+
+    {
+      "predicate": {
+        "emberfall:gem_type": 4,
+        "emberfall:charge_state": 0
+      },
+      "model": "emberfall:item/resonance_gems/res_orange_u"
+    },
+    {
+      "predicate": {
+        "emberfall:gem_type": 4,
+        "emberfall:charge_state": 1
+      },
+      "model": "emberfall:item/resonance_gems/res_orange_c"
+    },
+
+    {
+      "predicate": {
+        "emberfall:gem_type": 5,
+        "emberfall:charge_state": 0
+      },
+      "model": "emberfall:item/resonance_gems/res_purple_u"
+    },
+    {
+      "predicate": {
+        "emberfall:gem_type": 5,
+        "emberfall:charge_state": 1
+      },
+      "model": "emberfall:item/resonance_gems/res_purple_c"
+    }
+
+  ]
+}
