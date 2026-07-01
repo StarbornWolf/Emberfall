@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "emberfall:block/decorblocks/shale_pillar_top",
+    "side": "emberfall:block/decorblocks/shale_pillar_side"
+  }
+}

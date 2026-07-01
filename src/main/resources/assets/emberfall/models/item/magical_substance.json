@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "emberfall:item/shadowmaterials/magical_substance"
+  }
+}
